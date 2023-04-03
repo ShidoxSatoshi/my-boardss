@@ -4,19 +4,19 @@
     "url": "https://replit.com/@MrHaryPotter/Boards#main.py",
     "icon": "https://icons.duckduckgo.com/ip3/replit.com.ico",
     "slug": "repl",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 511,
-    "timeDay": 298,
-    "timeWeek": 437,
-    "timeMonth": 508,
-    "timeYear": 511,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.09%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
+    "time": 520,
+    "timeDay": 637,
+    "timeWeek": 535,
+    "timeMonth": 532,
+    "timeYear": 520,
     "dailyMinutesDown": {
-      "2023-04-03": 0
+      "2023-04-03": 28
     }
   }
 ]
