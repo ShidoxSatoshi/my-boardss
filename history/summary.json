@@ -6,15 +6,15 @@
     "slug": "repl",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.09%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
-    "time": 527,
-    "timeDay": 839,
-    "timeWeek": 606,
-    "timeMonth": 551,
-    "timeYear": 527,
+    "time": 532,
+    "timeDay": 954,
+    "timeWeek": 669,
+    "timeMonth": 564,
+    "timeYear": 532,
     "dailyMinutesDown": {
       "2023-04-03": 28
     }
